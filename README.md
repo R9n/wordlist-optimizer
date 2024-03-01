@@ -14,21 +14,33 @@ OBS: Use this at your risk, this is intended for pentesters. I AM NOT RESPONSIBL
 ## How to install - linux/macOs
 
 1 - clone this repository to a location of your choice. I recommend usr/bin
+
 2 - enter the folder, and run the following command: **chmod +x install-linux.sh**
+
 3 - after the finish,  you can open a new terminal or run  **source ~/.bashrc** or in case of zsh,  **source ~/.zshrc**
 
 ## How to install - windows
 
 1  - clone this repository to a location of your choice. I recommend c:\
+
 2  - enter the folder and run **go build -o wlopt.exe main.go**
+
 3  - copy the path of the generated wlopt.exe file
+
 4  - Press Win + Pause/Break to open System Settings.
+
 5  - Click "Advanced System Settings" in the left pane.
+
 6  - In the "System Properties" window, click the "Environment Variables..." button in the "Advanced" tab.
+
 7  - You can set environment variables for the current user or for the system.
+
 8 - In the "User Variables" section, click "**New**" to add a new environment variable for the current user as **wlopt.exe** file path.
+
 9 - In the "System Variables" section, click "**New**" to add a new environment variable for the system as **wlopt.exe** file path.
+
 10 - Add a variable, enter a name and value for it.
+
 11 - Click OK to Confirm
 
 After adding variables, click "OK" to confirm and close the windows.
@@ -40,11 +52,17 @@ To see how to use the tool, just type wlop in the terminal. If the installation 
 **Usage 1**: wlopt [word list path] [save result path] [flags]
 
 -**c** to include passwords with uppercase letters
+
 -**l** to include passwords with lowercase letters
+
 -**s** to include passwords with the following special symbols: [!@#$%^&*(),.?\":{}|<>]
+
 -**r** followed by custom regex to filter passwords
+
 -**n** to include passwords with numbers
+
 -**max** followed by an integer to include passwords with maximum length
+
 -**min** followed by an integer to include passwords of minimum length
 
 Example:
