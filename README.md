@@ -45,7 +45,7 @@ OBS: Use this at your risk, this is intended for pentesters. I AM NOT RESPONSIBL
 
 After adding variables, click "OK" to confirm and close the windows.
 
-### How to use
+## How to use
 
 To see how to use the tool, just type wlop in the terminal. If the installation was done correctly you should see instructions on the screen
 
@@ -84,7 +84,7 @@ The optimized file will have the following name **optimized-xxx.txt** where xxx 
 
 The file with all passwords that **did not**  meet the filter will be written to **removed-xxx.txt** where xxx is the name of the input word list file
 
-# Popular Patterns Filtering
+## Popular Patterns Filtering
 
 If you want, you can directly filter some popular password patterns:
 
