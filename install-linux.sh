@@ -3,6 +3,8 @@
 # This is the alias that will be created in the sistem, you can change it, if you want
 OUTPUT_FILE="wlopt"
 
+go mod tidy
+
 # Building the program
 echo "Compiling the main program..."
 go build -o "$OUTPUT_FILE" main.go
