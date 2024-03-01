@@ -92,17 +92,17 @@ If you want, you can directly filter some popular password patterns:
 
 where the service can be:
 
-- Gmail
+- aws
+- gmail
 - hotmail
 - tiktok
-- WiFi
+- wiFi
 - ssh
-- Facebook
-- Instagram
-- Alibaba
-- Google
+- facebook
+- instagram
+- alibaba
 - yahoo
-- IBM
+- ibm
 - windows
 - linkedIn
 
