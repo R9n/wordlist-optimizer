@@ -101,7 +101,7 @@ where the service can be:
 - Instagram
 - Alibaba
 - Google
-- oh
+- yahoo
 - IBM
 - windows
 - linkedIn
