@@ -108,7 +108,7 @@ where the service can be:
 
 Example:
 
-wlopt /usr/share/wordlists/rockyou.txt /usr/share/wordlists - wifi
+wlopt /usr/share/wordlists/rockyou.txt /usr/share/wordlists -wifi
 
 NOTE: You can select only one service
 

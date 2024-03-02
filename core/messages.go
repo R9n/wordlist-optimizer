@@ -6,7 +6,7 @@ var MenuLogo = `
 Version 1.0.0
 
 `
-var MenuMessage  = `This tool aims to optimize word lists to generate much more accurate attacks. Using regex and specific logic, it generates a much cleaner list of words`
+var MenuMessage = `This tool aims to optimize word lists to generate much more accurate attacks. Using regex and specific logic, it generates a much cleaner list of words`
 
 var HelpMessage = `
 Usage: wlopt [wordlist path] [save result path] [flags] 
@@ -63,11 +63,8 @@ where service can be:
 
 Example: 
 
-wlopt /usr/share/wordlists/rockyou.txt /usr/share/wordlists  - wifi
+wlopt /usr/share/wordlists/rockyou.txt /usr/share/wordlists  -wifi
 
 OBS: You can select only one service 
 
 `
-
-
-
