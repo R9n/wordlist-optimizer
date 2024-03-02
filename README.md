@@ -118,7 +118,7 @@ wlopt /usr/share/wordlists/rockyou.txt /usr/share/wordlists -wifi
 
 ## Performance 📈
 
-Here we have an test filtering for passwords with capital letters, lowercase letters, special simbols and with min length of 5 caracteres on a wordlist of 14 millions of passwords. As you can see, it took less than an minute :)
+Here we have a test filtering for passwords with capital letters, lowercase letters, special symbols, and with a minimum length of 5 characters on a wordlist of 14 million passwords. As you can see, it took less than a minute :)
 
 ![test result](assets/result.PNG)
 
