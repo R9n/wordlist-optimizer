@@ -121,7 +121,11 @@ Here we have an test filtering for passwords with capital letters, lowercase let
 ## Follow me :D
 
 => [Npm](https://www.npmjs.com/~r9n)
+
 => [Medium](https://medium.com/@ronaldomodesto_84548/chatgpt-and-secure-development-3f062dd4b8c)
+
 => [Dev.to](https://dev.to/r9n)
+
 => [GitHub](https://github.com/R9n/portfolio)https://github.com/R9n/portfolio
+
 == [LinkedIn](https://br.linkedin.com/in/ronaldo-mp)
