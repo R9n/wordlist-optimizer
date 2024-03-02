@@ -7,11 +7,15 @@ This tool aims to optimize word lists to generate much more accurate attacks. Us
 
 OBS: Use this at your risk, this is intended for pentesters. I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED BY A WRONG USE OF THIS TOOL !!!
 
-## Requirements
+❗⚠️WARNING⚠️ ❗
+**I AM NOT RESPONSIBLE FOR ANY DAMAGE THAT MAY BE CAUSED DIRECTLY OR INDIRECTLY BY THE USE OF THIS TOOL!!
+THE PURPOSE OF IT IS TO ASSIST IN ETHICAL INTRUSION TESTS CARRIED OUT BY AUTHORIZED PROFESSIONALS. USE AT YOUR OWN RESPONSIBILITY/RISK**
 
-- Golang version 1.22.0
+## Requirements 🎯
 
-## How to install - linux/macOs
+- Golang version 1.22.0 - [download it here](https://go.dev/)
+
+## How to install - linux/macOs✅
 
 1 - clone this repository to a location of your choice. I recommend usr/bin
 
@@ -19,11 +23,11 @@ OBS: Use this at your risk, this is intended for pentesters. I AM NOT RESPONSIBL
 
 3 - after the finish,  you can open a new terminal or run  **source ~/.bashrc** or in case of zsh,  **source ~/.zshrc**
 
-## How to install - windows
+## How to install - windows ✅
 
 1  - clone this repository to a location of your choice. I recommend c:\
 
-2  - enter the folder and run **go build -o wlopt.exe main.go**
+2  - enter the folder and run **go mod tidy** to download project libs and after that run **go build -o wlopt.exe main.go**
 
 3  - copy the path of the generated wlopt.exe file
 
@@ -45,7 +49,7 @@ OBS: Use this at your risk, this is intended for pentesters. I AM NOT RESPONSIBL
 
 After adding variables, click "OK" to confirm and close the windows.
 
-## How to use
+## How to use 🚀
 
 To see how to use the tool, just type wlop in the terminal. If the installation was done correctly you should see instructions on the screen
 
@@ -110,15 +114,15 @@ Example:
 
 wlopt /usr/share/wordlists/rockyou.txt /usr/share/wordlists -wifi
 
-NOTE: You can select only one service
+**NOTE**: You can select only one service
 
-## Performance
+## Performance 📈
 
-Here we have an test filtering for passwords with capital letters, lowercase letters, special simbols and with min length of 5 caracteres on a wordlist of 14 millions of passwords. As you can see, it took less than an minute :) 
+Here we have an test filtering for passwords with capital letters, lowercase letters, special simbols and with min length of 5 caracteres on a wordlist of 14 millions of passwords. As you can see, it took less than an minute :)
 
 ![test result](assets/result.PNG)
 
-## Follow me :D
+## Follow me 🙂
 
 => [Npm](https://www.npmjs.com/~r9n)
 
@@ -126,6 +130,8 @@ Here we have an test filtering for passwords with capital letters, lowercase let
 
 => [Dev.to](https://dev.to/r9n)
 
-=> [GitHub](https://github.com/R9n/portfolio)https://github.com/R9n/portfolio
+=> [GitHub](https://github.com/R9n/portfolio)
 
 == [LinkedIn](https://br.linkedin.com/in/ronaldo-mp)
+
+Sugestions are welcome 🙂
