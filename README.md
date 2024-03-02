@@ -117,3 +117,11 @@ NOTE: You can select only one service
 Here we have an test filtering for passwords with capital letters, lowercase letters, special simbols and with min length of 5 caracteres on a wordlist of 14 millions of passwords. As you can see, it took less than an minute :) 
 
 ![test result](assets/result.PNG)
+
+## Follow me :D
+
+=> [Npm](https://www.npmjs.com/~r9n)
+=> [Medium](https://medium.com/@ronaldomodesto_84548/chatgpt-and-secure-development-3f062dd4b8c)
+=> [Dev.to](https://dev.to/r9n)
+=> [GitHub](https://github.com/R9n/portfolio)https://github.com/R9n/portfolio
+== [LinkedIn](https://br.linkedin.com/in/ronaldo-mp)
